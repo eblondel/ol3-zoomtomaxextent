@@ -1,0 +1,28 @@
+{
+  "name": "ol3-zoomtomaxextent",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eblondel/ol3-zoomtomaxextent",
+  "authors": [
+    "Emmanuel Blondel <emmanuel.blondel1@gmail.com>"
+  ],
+  "contributors": [
+  ],
+  "description": "Zoom to Max Extent control for OpenLayers 3",
+  "main": [
+    "src/ol3-zoomtomaxextent.js",
+    "src/ol3-zoomtomaxextent.css"
+  ],
+  "keywords": [
+    "openlayers",
+    "ol3",
+    "loadingpanel",
+    "map",
+    "layer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
