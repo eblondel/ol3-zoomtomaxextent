@@ -14,7 +14,7 @@ For users/developers interested in contributing, contributions, bug reporting an
 
 The examples demonstrate usage and can be viewed online thanks to [RawGit](http://rawgit.com/):
 
-* [Basic usage](http://rawgit.com/eblondel/ol3-loadingpanel/master/examples/zoomtomaxextent-default.html)
+* [Basic usage](http://rawgit.com/eblondel/ol3-zoomtomaxextent/master/examples/zoomtomaxextent-default.html)
    * Create a map instance with a basic ZoomToMaxExtent control
    
 ## API
