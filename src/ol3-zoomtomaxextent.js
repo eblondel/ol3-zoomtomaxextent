@@ -19,13 +19,11 @@
  * /
 /**
  * @classdesc
- * A control to display a loader image (typically an animated GIF) when
- * the map tiles are loading, and hide the loader image when tiles are
- * loaded
+ * A control to display a button to zoom to a max extent
  *
  * @constructor
  * @extends {ol.control.Control}
- * @param {olx.control.LoadingPanelOptions} opt_options Options.
+ * @param {olx.control.ZoomToMaxExtentOptions} opt_options Options.
  * 
  * @author Emmanuel Blondel
  *
